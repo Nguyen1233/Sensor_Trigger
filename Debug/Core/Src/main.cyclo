@@ -1,0 +1,14 @@
+../Core/Src/main.c:84:6:rfidA_on	1
+../Core/Src/main.c:90:6:rfidA_off	1
+../Core/Src/main.c:96:6:rfidB_on	1
+../Core/Src/main.c:102:6:rfidB_off	1
+../Core/Src/main.c:108:6:sensorA_event	11
+../Core/Src/main.c:155:6:sensorB_event	11
+../Core/Src/main.c:202:6:clear_to_idle_task	13
+../Core/Src/main.c:243:6:system_timeout_task	4
+../Core/Src/main.c:270:6:process_sensors	5
+../Core/Src/main.c:312:5:main	1
+../Core/Src/main.c:359:6:SystemClock_Config	3
+../Core/Src/main.c:396:13:MX_GPIO_Init	1
+../Core/Src/main.c:446:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:458:6:Error_Handler	1
